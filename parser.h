@@ -3,6 +3,7 @@
 #include<iostream>
 #include<regex>
 #include<vector>
+#include <QStringList>
 #include "functions.h"
 #include "values.h"
 
